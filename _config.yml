@@ -19,7 +19,7 @@
 text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : www.wmhuang.club # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : wmhuang.club # does not include hostname
+# baseurl : wmhuang.club # does not include hostname
 title   : 风旅 Journey
 description: > # this means to ignore newlines until "Language & timezone"
   征途漫漫，唯有奋斗。
